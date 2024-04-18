@@ -1,9 +1,9 @@
 .container{
     display: flex;
+    flex-direction: column;
 }
 
-.header, nav, main, footer{
+.header{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    width: 200px;
-}
+    }
 
